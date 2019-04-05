@@ -1,0 +1,22 @@
+{
+  "name": "redux-reducer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarbaraMak85/redux-reducer.git"
+  },
+  "author": "Barbara Makowiec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BarbaraMak85/redux-reducer/issues"
+  },
+  "homepage": "https://github.com/BarbaraMak85/redux-reducer#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
